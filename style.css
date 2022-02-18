@@ -1,0 +1,26 @@
+p{
+    font-family: Helvetica,sans-serif;
+    font-style: bold;
+    color:black;
+}
+form {
+    
+}
+label{
+    font-family: fantasy;
+    color:black;
+    font-weight:200;
+}
+Input {
+    background-color: white;
+}
+Input:hover{
+    background-color:lightblue;
+    cursor: pointer;
+     color: white;
+}
+#a{
+    bottom: inherit;
+}
+
+
